@@ -1,0 +1,9 @@
+# Top-level directories (current root layout); keep docs/ tracked
+/.agents/
+/.bmad-core/
+/.claude/
+/.cursor/
+/.gemini/
+/.github/
+/_bmad/
+/_bmad-output/
