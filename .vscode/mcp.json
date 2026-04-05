@@ -1,0 +1,40 @@
+{
+  "servers": {
+    "consensus": {
+      "type": "http",
+      "url": "https://mcp.consensus.app/mcp"
+    },
+    "playwright": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest"
+      ]
+    },
+    "ref": {
+      "type": "http",
+      "url": "https://api.ref.tools/mcp?apiKey=${input:refApiKey}"
+    },
+    "scite": {
+      "type": "http",
+      "url": "https://api.scite.ai/mcp",
+      "headers": {
+        "Authorization": "Bearer ${input:sciteApiKey}"
+      }
+    }
+  },
+  "inputs": [
+    {
+      "type": "promptString",
+      "id": "refApiKey",
+      "description": "Ref API key",
+      "password": true
+    },
+    {
+      "type": "promptString",
+      "id": "sciteApiKey",
+      "description": "scite API key",
+      "password": true
+    }
+  ]
+}

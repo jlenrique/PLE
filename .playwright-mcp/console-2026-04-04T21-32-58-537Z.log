@@ -1,0 +1,7 @@
+[     193ms] [WARNING] <link rel=preload> has an unsupported `type` value @ https://consensus.app/:0
+[     193ms] [ERROR] Error: <svg> attribute width: Expected length, "auto". @ https://consensus.app/:0
+[     193ms] [ERROR] Error: <svg> attribute width: Expected length, "auto". @ https://consensus.app/:0
+[     558ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://consensus.app/api/collections/?flat=true&include_papers=false:0
+[     559ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://consensus.app/api/collections/?flat=true&include_papers=true:0
+[    1621ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://consensus.app/api/collections/?flat=true&include_papers=true:0
+[    1622ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://consensus.app/api/collections/?flat=true&include_papers=false:0

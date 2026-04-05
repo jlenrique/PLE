@@ -1,0 +1,191 @@
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - complementary
+    - main [ref=e7]:
+      - navigation [ref=e8]:
+        - button "Open sidebar" [ref=e10] [cursor=pointer]:
+          - img [ref=e12]
+        - button "Sign up" [ref=e15] [cursor=pointer]:
+          - generic [ref=e16]: Sign up
+      - generic [ref=e17]:
+        - generic [ref=e20]:
+          - generic [ref=e21]:
+            - img [ref=e22]
+            - heading "Research starts here" [level=2] [ref=e35]
+            - generic [ref=e37]:
+              - combobox [ref=e39]:
+                - generic [ref=e41]:
+                  - textbox "Ask the research..." [active] [ref=e43]
+                  - generic [ref=e44]:
+                    - generic [ref=e47]:
+                      - generic [ref=e48]:
+                        - radio "Analyze 20 papers · 3 uses left" [checked] [ref=e49] [cursor=pointer]:
+                          - img [ref=e50]
+                          - text: Pro
+                        - radio "Lit Review of 50 papers · Sign up to use" [ref=e61] [cursor=pointer]:
+                          - img [ref=e62]
+                          - text: Deep
+                      - button "Corpus" [ref=e71] [cursor=pointer]:
+                        - generic [ref=e72]: Corpus
+                        - img [ref=e74]
+                      - button "Sources" [ref=e78] [cursor=pointer]:
+                        - img [ref=e80]
+                        - generic [ref=e81]: Sources
+                    - generic [ref=e82]:
+                      - button "Filter" [ref=e84] [cursor=pointer]:
+                        - img [ref=e86]
+                        - generic [ref=e87]: Filter
+                      - button "Submit search" [disabled] [ref=e88]:
+                        - img [ref=e90]
+              - generic [ref=e92]:
+                - button "Try a Deep Search" [ref=e93] [cursor=pointer]:
+                  - img [ref=e95]
+                  - generic [ref=e103]: Try a Deep Search
+                - button "Create a table" [ref=e104] [cursor=pointer]:
+                  - img [ref=e106]
+                  - generic [ref=e108]: Create a table
+                - button "Try the Consensus Meter" [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]
+                  - generic [ref=e115]: Try the Consensus Meter
+          - generic [ref=e116]:
+            - generic [ref=e117]:
+              - separator [ref=e118]
+              - heading "The new standard for academic research" [level=3] [ref=e119]
+              - separator [ref=e120]
+            - generic [ref=e121]:
+              - generic [ref=e122]:
+                - img "Wiley" [ref=e124]
+                - img "Taylor & Francis" [ref=e132]
+                - link "Sage Publishing" [ref=e137] [cursor=pointer]:
+                  - /url: https://consensus.app/home/blog/sage-partners-with-consensus-to-bring/
+                  - img "Sage Publishing" [ref=e138]
+                  - img [ref=e147]
+                - link "ACS" [ref=e150] [cursor=pointer]:
+                  - /url: https://consensus.app/home/blog/consensus-partners-with-acs-to-bring-trusted-research-into-the-ai-era/
+                  - img "ACS" [ref=e151]
+                  - img [ref=e175]
+              - paragraph [ref=e178]: Search and analyze peer-reviewed literature. Consensus draws on 250M+ research papers, including licensed full text content from leading publishers.
+            - generic [ref=e179]:
+              - separator [ref=e180]
+              - heading "Used daily at top research institutions" [level=3] [ref=e181]
+              - separator [ref=e182]
+            - generic [ref=e183]:
+              - generic [ref=e184]:
+                - img "University of Michigan" [ref=e186]
+                - img "Rice University" [ref=e191]
+                - img "Yale University" [ref=e250]
+                - img "University of Virginia" [ref=e253]
+                - img "Carnegie Melon University" [ref=e257]
+                - img "University of Kansas" [ref=e274]
+                - img "Texas A&M" [ref=e279]
+                - img "William & Mary" [ref=e289]
+                - img "Vanderbilt University" [ref=e295]
+                - img "McGill University" [ref=e304]
+                - img "Cardiff University" [ref=e317]
+                - img "University of Lucerne" [ref=e320]
+              - paragraph [ref=e322]: Over 170 university libraries partner with Consensus to give students and faculty access. 10 million researchers, students, and clinicians use Consensus to supercharge literature reviews — without sacrificing academic rigor.
+            - separator [ref=e323]
+            - generic [ref=e324]:
+              - link "About Us" [ref=e325] [cursor=pointer]:
+                - /url: https://consensus.app/home/about-us/
+                - generic [ref=e326]:
+                  - img [ref=e327]
+                  - generic [ref=e331]: About Us
+                  - img [ref=e332]
+              - link "For Universities" [ref=e335] [cursor=pointer]:
+                - /url: https://consensus.app/home/universities-student/
+                - generic [ref=e336]:
+                  - img [ref=e337]
+                  - generic [ref=e344]: For Universities
+                  - img [ref=e345]
+              - link "For Organizations" [ref=e348] [cursor=pointer]:
+                - /url: https://consensus.app/home/research-organizations/
+                - generic [ref=e349]:
+                  - img [ref=e350]
+                  - generic [ref=e358]: For Organizations
+                  - img [ref=e359]
+              - link "Careers" [ref=e362] [cursor=pointer]:
+                - /url: https://consensus.app/home/careers/
+                - generic [ref=e363]:
+                  - img [ref=e364]
+                  - generic [ref=e368]: Careers
+                  - img [ref=e369]
+              - link "Contact Us" [ref=e372] [cursor=pointer]:
+                - /url: https://consensus.app/home/contact/
+                - generic [ref=e373]:
+                  - img [ref=e374]
+                  - generic [ref=e378]: Contact Us
+                  - img [ref=e379]
+            - separator [ref=e382]
+            - generic [ref=e383]:
+              - generic [ref=e384]:
+                - generic [ref=e385]:
+                  - img [ref=e387]
+                  - heading "Automate Literature Review with Deep Search" [level=3] [ref=e395]
+                - paragraph [ref=e396]: Turn days of literature review into a few minutes. Consensus Deep Search builds a comprehensive search strategy, expanding key terms, identifying conflicting arguments, and exploring the citation graph.
+              - generic [ref=e397]:
+                - button "Compare randomized vs observational evidence on intermittent fasting " [ref=e398] [cursor=pointer]:
+                  - paragraph [ref=e401]: Compare randomized vs observational evidence on intermittent fasting
+                  - generic [ref=e403]: 
+                - button "How has the definition of metabolic syndrome evolved over the last 20 years? " [ref=e404] [cursor=pointer]:
+                  - paragraph [ref=e407]: How has the definition of metabolic syndrome evolved over the last 20 years?
+                  - generic [ref=e409]: 
+                - button "Summarize points of agreement and disagreement on long COVID mechanisms " [ref=e410] [cursor=pointer]:
+                  - paragraph [ref=e413]: Summarize points of agreement and disagreement on long COVID mechanisms
+                  - generic [ref=e415]: 
+            - separator [ref=e416]
+            - generic [ref=e417]:
+              - generic [ref=e418]:
+                - generic [ref=e419]:
+                  - img [ref=e421]:
+                    - img [ref=e422]
+                  - heading "Try Medical mode" [level=3] [ref=e428]
+                - paragraph [ref=e429]: Narrow your results to the highest-quality medical sources — about 50,000 clinical guidelines and 8M articles from the top 1,000 medical journals for quick, trusted clinical answers.
+              - generic [ref=e430]:
+                - button "SGLT2 inhibitors vs GLP-1 agonists for renal outcomes in type 2 diabetes " [ref=e431] [cursor=pointer]:
+                  - paragraph [ref=e434]: SGLT2 inhibitors vs GLP-1 agonists for renal outcomes in type 2 diabetes
+                  - generic [ref=e436]: 
+                - button "Guideline-based management of atrial fibrillation with CKD " [ref=e437] [cursor=pointer]:
+                  - paragraph [ref=e440]: Guideline-based management of atrial fibrillation with CKD
+                  - generic [ref=e442]: 
+                - button "What labs and imaging are indicated for altered mental status overnight? " [ref=e443] [cursor=pointer]:
+                  - paragraph [ref=e446]: What labs and imaging are indicated for altered mental status overnight?
+                  - generic [ref=e448]: 
+            - separator [ref=e449]
+            - generic [ref=e450]:
+              - generic [ref=e451]:
+                - generic [ref=e452]:
+                  - img [ref=e454]
+                  - heading "Use filters with natural language" [level=3] [ref=e455]
+                - paragraph [ref=e456]: Specify timeframes, populations, designs, and more directly in your prompt — and Consensus automatically applies the right filters for your search.
+              - generic [ref=e457]:
+                - button "Large human studies (n > 1,000) examining long-term outcomes of intermittent fasting " [ref=e458] [cursor=pointer]:
+                  - paragraph [ref=e461]: Large human studies (n > 1,000) examining long-term outcomes of intermittent fasting
+                  - generic [ref=e463]: 
+                - button "Controlled studies only evaluating cognitive training programs for memory improvement " [ref=e464] [cursor=pointer]:
+                  - paragraph [ref=e467]: Controlled studies only evaluating cognitive training programs for memory improvement
+                  - generic [ref=e469]: 
+                - button "Evidence on microplastic exposure and health excluding animal and in vitro studies " [ref=e470] [cursor=pointer]:
+                  - paragraph [ref=e473]: Evidence on microplastic exposure and health excluding animal and in vitro studies
+                  - generic [ref=e475]: 
+            - separator [ref=e476]
+            - generic [ref=e477]:
+              - generic [ref=e478]:
+                - generic [ref=e479]:
+                  - img [ref=e481]
+                  - heading "See where the research agrees" [level=3] [ref=e485]
+                - paragraph [ref=e486]: Ask a clear yes-or-no research question and the Consensus Meter instantly shows how much the evidence agrees or disagrees — giving you a fast, visual read on the state of the research.
+              - generic [ref=e487]:
+                - button "Does intermittent fasting lead to meaningful long-term weight loss? " [ref=e488] [cursor=pointer]:
+                  - paragraph [ref=e491]: Does intermittent fasting lead to meaningful long-term weight loss?
+                  - generic [ref=e493]: 
+                - button "Is remote work associated with higher employee productivity? " [ref=e494] [cursor=pointer]:
+                  - paragraph [ref=e497]: Is remote work associated with higher employee productivity?
+                  - generic [ref=e499]: 
+                - button "Does social media use increase the risk of depression in adolescents? " [ref=e500] [cursor=pointer]:
+                  - paragraph [ref=e503]: Does social media use increase the risk of depression in adolescents?
+                  - generic [ref=e505]: 
+        - button "Open support chat" [ref=e506] [cursor=pointer]:
+          - img [ref=e507]
+    - complementary
+  - alert [ref=e510]
